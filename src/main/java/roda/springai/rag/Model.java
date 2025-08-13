@@ -1,5 +1,5 @@
-package roda.springai;
+package roda.springai.rag;
 
-public record Model(String comapny, String model, int contextWindowSize) {
+public record Model(String company, String model, int contextWindowSize) {
 
 }

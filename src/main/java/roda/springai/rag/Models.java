@@ -1,4 +1,7 @@
 package roda.springai.rag;
 
-public class Models {
+import java.util.List;
+
+public record Models(List<Model> models) {
+
 }

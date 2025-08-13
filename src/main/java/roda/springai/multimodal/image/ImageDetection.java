@@ -1,4 +1,4 @@
-package roda.springai.multimodal;
+package roda.springai.multimodal.image;
 
 import static org.springframework.util.MimeTypeUtils.IMAGE_JPEG;
 

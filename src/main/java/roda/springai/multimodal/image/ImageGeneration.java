@@ -1,4 +1,4 @@
-package roda.springai.multimodal;
+package roda.springai.multimodal.image;
 
 import java.util.Map;
 import lombok.RequiredArgsConstructor;

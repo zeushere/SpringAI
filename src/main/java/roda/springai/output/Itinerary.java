@@ -1,4 +1,7 @@
 package roda.springai.output;
 
-public class Itinerary {
+import java.util.List;
+
+public record Itinerary(List<Activity> activities) {
+
 }
